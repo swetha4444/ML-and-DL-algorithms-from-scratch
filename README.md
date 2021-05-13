@@ -1,7 +1,7 @@
 # ML-and-DL-algorithms-from-scratch
 Machine Learning and Deep Learning  algorithm implementations from using vanilla python.
 
-## Gradient Descend
+## Gradient Descent
 Gradient descent is an optimization algorithm used to minimize some function by iteratively moving in the direction of steepest descent as defined by the negative of the gradient.
 
 ## K-Means
