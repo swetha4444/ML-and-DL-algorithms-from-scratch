@@ -1,4 +1,4 @@
-# ML-and-DL-algorithms-from-scratch
+# ML and DL algorithms from scratch
 Machine Learning and Deep Learning  algorithm implementations from using vanilla python.
 
 ## Gradient Descent
